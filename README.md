@@ -24,14 +24,11 @@ As seguintes ferramentas foram essenciais para a execução deste projeto:
 Este repositório está organizado de acordo com as etapas de implantação do PortfolioHUB:
 
 * **`docs/`**: Contém a documentação do projeto, incluindo o plano de implantação detalhado (criado no Google Docs) e outros documentos relevantes.
-* **`src/`**: Incluirá os arquivos de código-fonte do PortfolioHUB.
 * **`assets/`**: Para imagens, vídeos (como a apresentação do YouTube) e outros recursos visuais relacionados ao projeto.
-* **`config/`**: Arquivos de configuração relacionados às integrações com Google Workspace e GitHub.
 
 ## Seções da Implementação
 
-A implantação do PortfolioHUB seguiu as seguintes seções mínimas, conforme especificado no desafio[cite: 11, 15, 19]:
-
+A implantação do PortfolioHUB seguiu as seguintes seções mínimas, conforme especificado no desafio.
 1.  **Planejamento da Implantação:** Detalhamento do plano e configuração do Google Gemini para guiar a trilha.
 2.  **Configuração Inicial e Integração com Google Workspace:** Criação do ambiente Google Workspace dedicado e integração das funcionalidades (Drive, Calendar).
 3.  **Gestão de Usuários e Segurança:** Configuração da gestão de usuários no Google Workspace e implementação de políticas de segurança com apoio do Google Gemini.
@@ -41,7 +38,7 @@ A implantação do PortfolioHUB seguiu as seguintes seções mínimas, conforme 
 
 ## Como Acessar / Ver o Projeto
 
-Para visualizar a documentação e os resultados do projeto, consulte a pasta `docs/` e o link da apresentação no YouTube (a ser adicionado após a gravação)[cite: 9, 21].
+Para visualizar a documentação e os resultados do projeto, consulte a pasta `docs/` e o link da apresentação no YouTube.
 
 ## Contribuição
 
