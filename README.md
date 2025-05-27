@@ -4,13 +4,13 @@ Este repositório contém a implementação do **PortfolioHUB**, uma plataforma 
 
 ## Objetivo do Projeto
 
-O objetivo principal deste desafio foi guiar o estudante pelo processo completo de implantação do PortfolioHUB, adquirindo habilidades práticas na integração de ferramentas do Google Workspace, GitHub e segurança, utilizando o Google Gemini como apoio[cite: 2].
+O objetivo principal deste desafio foi guiar o estudante pelo processo completo de implantação do PortfolioHUB, adquirindo habilidades práticas na integração de ferramentas do Google Workspace, GitHub e segurança, utilizando o Google Gemini como apoio.
 
 ## Ferramentas Utilizadas
 
 As seguintes ferramentas foram essenciais para a execução deste projeto:
 
-* **Google Workspace:** Utilizado para colaboração, gestão de usuários e implementação de políticas de segurança[cite: 6].
+* **Google Workspace:** Utilizado para colaboração, gestão de usuários e implementação de políticas de segurança.
 * **Google Drive:** Empregado para documentar o processo e compartilhar resultados, além de ser o local de armazenamento dos projetos no PortfolioHUB.
 * **Google Calendar:** Integrado para sincronização de funcionalidades no PortfolioHUB.
 * **Google Gemini:** Serviu como guia e ferramenta de suporte durante todo o processo de implantação, auxiliando no planejamento, configuração e etapas finais.
